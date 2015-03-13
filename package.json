@@ -1,6 +1,6 @@
 {
   "name": "fs-path",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "lib/index.js",
   "author": {
     "name": "pillys",
@@ -23,6 +23,6 @@
   "dependencies": {
     "async": "~0.9.0"
   },
-  "description": "file and directory op libs",
+  "description": "file and directory op libs, find, findSync, mkdir, mkdirSync, copy, copySync, remove, removeSync, writeFile, writeFileSync",
   "readmeFilename": "README.md"
 }

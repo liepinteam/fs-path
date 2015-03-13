@@ -42,7 +42,7 @@ If you set a pattern to filter the files or directories, you can do like this:
 ```js
 var fsPath = require('fs-path');
 
-fsPath.find('/usr/local', /\.png/, function(err, list){
+fsPath.find('/usr/local', /\.png$/, function(err, list){
   console.log(list.dirs);
   console.log(list.files);
 });
