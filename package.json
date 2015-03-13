@@ -1,0 +1,28 @@
+{
+  "author": {
+    "name": "Baolei Chen",
+    "email": "chenbl@liepin.com",
+    "url": "http://ued.liepin.com"
+  },
+  "description": "file and directory op libs",
+  "keywords": [
+    "fs-path",
+    "file",
+    "directory"
+  ],
+  "main": "index.js",
+  "name": "fs-path",
+  "repository": {
+    "url": "https://github.com/pillys/fs-path",
+    "type": "git"
+  },
+  "version": "0.0.2",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/pillys/fs-path/issues"
+  },
+  "homepage": "https://github.com/pillys/fs-path",
+  "dependencies": {
+    "async": "~0.9.0"
+  }
+}
