@@ -2,8 +2,6 @@ fs-path
 ========
 [![Build Status](https://secure.travis-ci.org/pillys/fs-path.png)](http://travis-ci.org/pillys/fs-path)
 
-Useful file utitiles. See [API Documentation](http://pillys.github.com/fs-path/#FsPath) for detailed info.
-
 ---
 
 ### find(path [,filter] [,callback])
